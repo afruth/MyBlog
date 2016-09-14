@@ -1,7 +1,9 @@
 ---
 published: true
+layout: post
+title: Now this is my first post using Jekyll
 ---
-## I have started :)
+I have started :)
 
 Trying to set up a new personal site, using only free tools.
 
