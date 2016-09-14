@@ -1,5 +1,4 @@
 ---
-published: true
 layout: post
 title: Now this is my first post using Jekyll
 ---
